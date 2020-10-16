@@ -8,7 +8,7 @@
  ### Para la siguiente practica utilice  HTML y CSS, el editor utilizado fue Visual Studio code
 
 #  Codigo  HTML
-![HtmlScreen](IMG/cod.png)
+![HtmlScreen](IMG/cod.PNG)
 
 # Codigo  CSS
 ![Csscreen](IMG/css.PNG)
